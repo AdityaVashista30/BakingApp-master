@@ -8,8 +8,7 @@ Your task is to create a Android Baking App that will allow Udacity’s resident
 
 
 ## Project Overview
-An app to view video recipes. It will handle media loading, verify user interfaces with UI tests, and integrate third party libraries. It will also provide a complete user experience with a home screen widget. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget.
-
+An app to view video recipes. It will handle media loading, verify user interfaces with UI tests, and integrate third-party libraries. It will also provide a complete user experience with a home screen widget. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget.
 
 ### General App Usage
 -    App should display recipes from provided network resource.
